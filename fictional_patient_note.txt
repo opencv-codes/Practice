@@ -1,0 +1,8 @@
+Patient ID: DEMO-001
+Age: 60 years
+Diagnosis recorded by the clinician: Colon cancer
+Reported symptoms: Abdominal pain and blood in the stool
+Colonoscopy finding: A mass in the colon
+Biopsy result: Adenocarcinoma
+Cancer stage: Not provided
+Treatment plan: Not provided
